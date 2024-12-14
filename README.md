@@ -6,7 +6,8 @@ This project focuses on building machine learning models to classify astronomica
 Galaxy
 Star
 QSO (Quasi-Stellar Objects)
-The dataset contains photometric measurements (u, g, r, i, z) of celestial objects, and the objective is to predict the object class using machine learning techniques like:
+
+The objective is to predict the object class using machine learning techniques like:
 
 SVM (Support Vector Machines)
 XGBoost
@@ -87,8 +88,8 @@ X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)
 
 # Train the SVM model
-svm_model = SVC(kernel='linear', probability=True)
-svm_model.fit(X_train_scaled, y_train)
+svm_model = SVC(kernel='linear', probability=True) \n
+svm_model.fit(X_train_scaled, y_train) 
 
 # Evaluate
 y_pred = svm_model.predict(X_test_scaled)
