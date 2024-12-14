@@ -45,7 +45,7 @@ The data consists of 100,000 observations of space taken by the SDSS (Sloan Digi
 **Link to Access the SDSS DR17 Data**
 For those interested in exploring the SDSS data, you can access it here:
 
-**Sloan Digital Sky Survey DR17**: https://www.sdss.org/dr17/
+**Sloan Digital Sky Survey DR17**: https://www.sdss.org/dr17/ , 
 **SDSS SkyServer (Data Query Tool)**: https://skyserver.sdss.org/dr17
 
 
