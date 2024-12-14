@@ -71,9 +71,8 @@ The repository is organized as follows:
 
 ```plaintext
 ML_astro/
-├── data/
-│   └── star_classification.csv   # Dataset file
-├── main.py                       # Main script for training and evaluation
+├── star_classification.csv       # Dataset file
+├── ML_astro_refined.ipynb        # Main script for training and evaluation
 ├── README.md                     # Project documentation
 ```
 
