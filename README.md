@@ -75,3 +75,8 @@ ML_astro/
 │   └── star_classification.csv   # Dataset file
 ├── main.py                       # Main script for training and evaluation
 ├── README.md                     # Project documentation
+```
+
+## **Author** 
+This project was developed for academic purposes. Contributions and suggestions are welcome!
+
