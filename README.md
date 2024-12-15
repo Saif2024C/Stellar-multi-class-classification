@@ -1,5 +1,21 @@
 # Stellar Multi-Class Classification
 
+--- 
+
+# Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Dataset](#dataset)
+   - [Column Descriptions](#column-descriptions)
+   - [Data Source](#data-source)
+   - [SDSS DR17 Links](#link-to-access-the-sdss-dr17-data)
+3. [Requirements](#requirements)
+4. [Project Structure](#project-structure)
+5. [Author](#author)
+
+
+---
+
 ## **Project Overview**
 This project focuses on building machine learning models to classify astronomical objects into three categories:
 
